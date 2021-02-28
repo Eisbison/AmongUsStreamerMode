@@ -11,7 +11,7 @@ When you create a new lobby, the code will be copied to your clipboard.
 When you enter a code or wait in a lobby, the code won't be visible on your screen.
 
 
-## Installation
+# Installation
  
 1) Download the latest release from the [releases](https://github.com/Eisbison/AmongUsStreamerMode/releases) tab.
 2) Drag the files from the zip into your Among Us game folder
