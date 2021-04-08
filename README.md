@@ -1,6 +1,6 @@
 # Streamer Mode
 A BepInEx mod that adds a streamer mode to Among Us to hide the code of your lobby.
-The mod works for the newest version of Among Us (**2021.3.5**)
+The mod works for the newest version of Among Us (**2021.3.31.3s**)
 
 # Dependency
 
